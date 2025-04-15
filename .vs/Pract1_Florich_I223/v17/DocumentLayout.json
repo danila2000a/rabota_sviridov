@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\delwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\delwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\datagrid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\datagrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|\\\\mainsrv\\mineserw\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\pract1_florich_i223\\pract1_florich_i223\\logic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelWindow.xaml.cs",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DelWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\DelWindow.xaml.cs",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DelWindow.xaml.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\DelWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:27:57.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\MainWindow.xaml",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\MainWindow.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T12:07:07.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAhwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:07:08.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelWindow.xaml",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DelWindow.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\DelWindow.xaml",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DelWindow.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\DelWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T13:21:01.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataGrid.xaml.cs",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DataGrid.xaml.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\DataGrid.xaml.cs",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DataGrid.xaml.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\DataGrid.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:58:21.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataGrid.xaml",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DataGrid.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\DataGrid.xaml",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\DataGrid.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\DataGrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T11:48:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:52:29.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\AuthWindow.xaml",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\AuthWindow.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T11:48:49.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\App.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\App.xaml",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\App.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T11:48:43.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "ToolTip": "\\\\mainsrv\\MineSerw\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432\\\u043F\u0440\u0438\u043C\u0435\u0440 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Pract1_Florich_I223\\Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:18:30.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
